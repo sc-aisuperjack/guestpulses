@@ -1,5 +1,9 @@
 # GuestPulses
 
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Streamlit](https://img.shields.io/badge/streamlit-app-success)
+![License](https://img.shields.io/github/license/sc-aisuperjack/guestpulses)
+
 Hospitality review intelligence. Sentiment, emotions, themes, exports.
 
 GuestPulses is a Streamlit app for restaurants and hospitality teams. Upload a CSV or Excel export of guest reviews, map your columns, and generate analysis outputs including hospitality category classification, sentiment (with score and source), emotion detection (with trigger words), and keyword and phrase frequency reports. :contentReference[oaicite:2]{index=2}
